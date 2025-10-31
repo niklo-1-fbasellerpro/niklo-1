@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.010000,
+006_-_TMNT_s_Michelangelo_3D_Hologram_Dance_Nick0.ts
+#EXTINF:10.076733,
+006_-_TMNT_s_Michelangelo_3D_Hologram_Dance_Nick1.ts
+#EXTINF:10.143467,
+006_-_TMNT_s_Michelangelo_3D_Hologram_Dance_Nick2.ts
+#EXTINF:10.010000,
+006_-_TMNT_s_Michelangelo_3D_Hologram_Dance_Nick3.ts
+#EXTINF:10.110100,
+006_-_TMNT_s_Michelangelo_3D_Hologram_Dance_Nick4.ts
+#EXTINF:12.946267,
+006_-_TMNT_s_Michelangelo_3D_Hologram_Dance_Nick5.ts
+#EXT-X-ENDLIST
